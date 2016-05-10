@@ -1,0 +1,2 @@
+[Mon May 09 2016 18:24:39 GMT+0300 (Финляндия (лето))] layer "google +": Expected end of input but "+" found.
+[Mon May 09 2016 18:29:48 GMT+0300 (Финляндия (лето))] layer "img9.jpg copy": Expected end of input but "c" found.
