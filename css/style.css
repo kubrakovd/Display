@@ -1220,6 +1220,7 @@ select {
 .ba-ipad-bg {
   text-align: center;
   margin-bottom: 100px;
+  background-size: cover;
   background: #2CC26B url(../img/home/ipad_bg.jpg) 50% no-repeat;
 }
 .ba-ipad-slider {
