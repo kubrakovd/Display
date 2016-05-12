@@ -1073,7 +1073,7 @@ select {
 }
 .ba-header {
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 25px;
 }
 .ba-logo-social {
   padding-bottom: 20px;
@@ -1214,16 +1214,18 @@ select {
   display: none;
 }
 .ba-ipad {
-  padding-bottom: 50px;
+  padding-bottom: 80px;
   z-index: 0;
 }
 .ba-ipad-bg {
   text-align: center;
   margin-bottom: 100px;
+  padding: 0;
   background: #2CC26B url(../img/home/ipad_bg.jpg) 50% no-repeat;
   background-size: cover;
 }
 .ba-ipad-slider {
+  top: 50px;
   background-size: cover;
   padding-top: 70px;
   z-index: 0;
@@ -1274,7 +1276,7 @@ select {
   padding-bottom: 22px;
 }
 .ba-video {
-  padding: 35px 0 20px;
+  padding: 0 0 20px;
   background: #EFEFEF;
   background-size: cover;
 }
@@ -1364,7 +1366,7 @@ select {
 }
 .ba-text-slider__slide {
   padding-top: 40px;
-  padding-bottom: 20px;
+  padding-bottom: 25px;
 }
 .ba-text-slider__slide h4 {
   color: #8a8888;

@@ -1,6 +1,8 @@
 // external js: isotope.pkgd.js
 
+
 // init Isotope
+  $(window).load(function(){
 var $grid = $('.ba-isotope').isotope({
   itemSelector: '.ba-isotope-item'
 });
@@ -38,3 +40,5 @@ function concatValues( obj ) {
   }
   return value;
 }
+
+})(jQuery);
